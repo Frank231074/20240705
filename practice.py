@@ -8,9 +8,12 @@ topic-A
 
 topic-B
 
+<<<<<<< HEAD
 topic-D
 
 topic-E
 topic-C
 
 topic-F
+=======
+topic-C
